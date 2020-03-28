@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html {
+    font-size: 16px;
+}
+body {
+    box-sizing: border-box;
+    background-color: #eee;
+    font-family: 'Lato', sans-serif;
+}
+header {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+h1 {
+    color: #333;
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: .8rem;
+}
+p {
+    color: #333;
+    font-size: 1rem;
+    margin-bottom: .8rem;
+}
+.container {
+    margin: 0 auto;
+    width: 1024px;
+    padding: 1rem;
+}
