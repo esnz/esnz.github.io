@@ -4,33 +4,96 @@
     margin: 0;
     padding: 0;
     box-sizing: inherit;
+    font-family: inherit;
 }
 html {
     font-size: 16px;
 }
 body {
     box-sizing: border-box;
-    background-color: #eee;
-    font-family: 'Lato', sans-serif;
+    background-color: #F2F3F8;
+    font-family: 'Open Sans', sans-serif;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
 }
 header {
-    text-align: center;
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
-h1 {
-    color: #333;
-    font-size: 3rem;
+header .img {
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+}
+header h1.name {
+    color: #8089A3;
+    font-size: 3.4rem;
+    text-align: center;
     font-weight: 400;
+}
+header h5.job {
+    color: #8089A3;
+    font-size: 1.8rem;
+    font-weight: 200;
+    text-align: center;
     margin-bottom: .8rem;
 }
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+nav ul li a {
+    display: block;
+    margin: 0 1rem;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #626d8d;
+    text-decoration: none!important;
+    border-radius: 5px;
+    transition: all .2s ease-in-out
+}
+nav ul li a:hover, nav ul li a.active {
+    color: #2786FB;
+    background-color: #e7e9f1;
+}
 p {
+    margin: 2rem 0;
     color: #333;
     font-size: 1rem;
     margin-bottom: .8rem;
 }
-.container {
-    margin: 0 auto;
-    width: 1024px;
-    padding: 1rem;
+footer {
+    display: flex;
+    flex-direction: column;
+}
+footer p {
+    text-align: center;
+    color: #8089a3;
+}
+footer .icons {
+    display: flex;
+}
+footer .icons a {
+    color: #69728f;
+    margin: 0 1rem;
+}
+footer .icons a:hover {
+    color: #8089a3;
+}
+.flex-grow {
+    flex-grow: 1!important;
 }
