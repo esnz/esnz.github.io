@@ -46,7 +46,7 @@ header h1.name {
 header h5.job {
     color: #8089A3;
     font-size: 1.8rem;
-    font-weight: 200;
+    font-weight: 100;
     text-align: center;
     margin-bottom: .8rem;
 }
@@ -60,7 +60,7 @@ nav ul li a {
     margin: 0 1rem;
     padding: 1rem;
     font-size: 1.2rem;
-    font-weight: 500;
+    font-weight: 600;
     color: #626d8d;
     text-decoration: none!important;
     border-radius: 5px;
