@@ -20,40 +20,54 @@ body {
     }
   }
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    padding-top: 5rem;
-    padding-bottom: 1rem;
 }
-header {
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.container-fluid {
+    padding-top: 5rem; 
+    padding-bottom: 5rem; 
+ }
+.navbar-brand {
+    color: #525b75!important;
+    font-size: 1.5rem;
+    font-weight: 800;
 }
-header .img {
-    width: 300px;
-    height: 300px;
+.navbar-brand span {
+    font-weight: 600!important;
+}
+.main-info {
+    margin-bottom: 8rem;
+}
+img.photo {
+    display: block;
+    max-width: 320px;
+    max-height: 320px;
     background-color: #fff;
     margin-bottom: 1rem;
     border-radius: 50%;
+    box-shadow: 0 0 25px 0 rgba(0,0,0,.05);
+    border: 1rem solid #fff;
 }
-header h1.name {
-    color: #8089A3;
+h1.name {
+    color: #525b75;
     font-size: 3.4rem;
-    text-align: center;
+    font-weight: 800;
+}
+h5.job {
+    color: #8089A3;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+h2 {
+    color: #8089A3;
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+h4 {
+    color: #8089A3;
+    font-size: 1.5rem;
     font-weight: 400;
 }
-header h5.job {
-    color: #8089A3;
-    font-size: 1.8rem;
-    font-weight: 100;
-    text-align: center;
-    margin-bottom: .8rem;
+p.info {
 }
 nav ul {
     display: flex;
@@ -81,9 +95,41 @@ p {
     font-size: 1rem;
     margin-bottom: .8rem;
 }
+section.service .card {
+    margin-bottom: 2rem;
+    border: none;
+    box-shadow: 0 0 5px 0 rgba(0,0,0,.05);
+}
+section.service .card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section h4 {
+    margin-top: 1rem;
+    color: rgb(67, 86, 109);
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+section p {
+    margin-top: 1rem;
+    color: #586069;
+    font-size: 1rem;
+    font-weight: 400;
+}
+section.service i {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    transform: scale(2);
+    color: #2b4f7c!important;
+}
+section.service p {
+    margin-top: 1rem;
+}
 footer {
     display: flex;
     flex-direction: column;
+    margin-top: 6rem;
 }
 footer p {
     text-align: center;
@@ -98,7 +144,4 @@ footer .icons a {
 }
 footer .icons a:hover {
     color: #8089a3;
-}
-.flex-grow {
-    flex-grow: 1!important;
 }
