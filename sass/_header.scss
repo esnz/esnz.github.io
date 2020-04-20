@@ -1,6 +1,17 @@
 header {
-  background-color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: rgba(255, 255, 255, 0.6);
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+  transition: height 0.25s;
+
+  &.shrink {
+    height: 70px;
+    nav {
+      height: 70px;
+    }
+  }
   .title {
     font-size: 1.25rem;
     text-decoration: none;
@@ -10,10 +21,11 @@ header {
     }
   }
   nav {
-    display: flex;
     height: 100px;
+    display: flex;
     justify-content: space-between;
     align-items: center;
+    transition: height 0.25s;
     ul {
       list-style: none;
       display: flex;
@@ -23,13 +35,15 @@ header {
       }
       a {
         display: block;
-
         font-weight: 500;
         text-decoration: none;
-        transition: all 0.15s;
-        &.active,
+        transition: border 0.15s;
+        border-bottom: 3px solid transparent;
         &:hover {
-          border-bottom: 3px solid #e61538;
+          color: lighten(#525b75, 20);
+        }
+        &.active {
+          border-bottom: 3px solid #2487da;
         }
       }
       & > :first-child {

@@ -7,7 +7,8 @@
   font-family: inherit; }
 
 html {
-  font-size: 18px; }
+  font-size: 18px;
+  scroll-behavior: smooth; }
   @media (max-width: 576px) {
     html {
       font-size: 16px; } }
@@ -61,8 +62,16 @@ footer {
   padding: 3rem 0; }
 
 header {
-  background-color: #fff;
-  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1); }
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
+  transition: height 0.25s; }
+  header.shrink {
+    height: 70px; }
+    header.shrink nav {
+      height: 70px; }
   header .title {
     font-size: 1.25rem;
     text-decoration: none;
@@ -70,10 +79,11 @@ header {
     header .title span {
       font-weight: 500; }
   header nav {
-    display: flex;
     height: 100px;
+    display: flex;
     justify-content: space-between;
-    align-items: center; }
+    align-items: center;
+    transition: height 0.25s; }
     header nav ul {
       list-style: none;
       display: flex; }
@@ -83,9 +93,12 @@ header {
         display: block;
         font-weight: 500;
         text-decoration: none;
-        transition: all 0.15s; }
-        header nav ul a.active, header nav ul a:hover {
-          border-bottom: 3px solid #e61538; }
+        transition: border 0.15s;
+        border-bottom: 3px solid transparent; }
+        header nav ul a:hover {
+          color: #848ea9; }
+        header nav ul a.active {
+          border-bottom: 3px solid #2487da; }
       header nav ul > :first-child {
         margin-left: 0; }
 
