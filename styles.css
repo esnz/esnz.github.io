@@ -15,7 +15,7 @@ html {
 body {
   background-color: #ebedf5;
   font-family: 'Poppins', sans-serif;
-  background-image: url("../images/bg.svg"), url("../images/bg-circle.svg");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='797' height='836' viewBox='0 0 797 836'%3E%3Cdefs%3E%3Cstyle%3E.a%7Bopacity:0.39;fill:url(%23a);%7D.b%7Bfill:url(%23b);%7D%3C/style%3E%3ClinearGradient id='a' x1='0.314' y1='0.781' x2='0.811' y2='0.232' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%234c9eef' stop-opacity='0.529'/%3E%3Cstop offset='1' stop-color='%234529d8' stop-opacity='0.529'/%3E%3C/linearGradient%3E%3ClinearGradient id='b' x1='0.04' y1='1' x2='0.349' gradientUnits='objectBoundingBox'%3E%3Cstop offset='0' stop-color='%23fff' stop-opacity='0.141'/%3E%3Cstop offset='1' stop-color='%232981d8' stop-opacity='0.529'/%3E%3C/linearGradient%3E%3C/defs%3E%3Cg transform='translate(-857 144)'%3E%3Ccircle class='a' cx='375.5' cy='375.5' r='375.5' transform='translate(903 -59)'/%3E%3Ccircle class='b' cx='375.5' cy='375.5' r='375.5' transform='translate(857 -144)'/%3E%3C/g%3E%3C/svg%3E"), url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='197' height='197' viewBox='0 0 197 197'%3E%3Cdefs%3E%3Cstyle%3E.a%7Bfill:%239cc7f2;opacity:0.39;%7D%3C/style%3E%3C/defs%3E%3Ccircle class='a' cx='98.5' cy='98.5' r='98.5'/%3E%3C/svg%3E");
   background-position: right -100px top -60px, left -100px top 230px;
   background-repeat: no-repeat; }
   @media (max-width: 992px) {
