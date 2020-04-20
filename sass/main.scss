@@ -1,0 +1,70 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+html {
+  font-size: 18px;
+  @media (max-width: 576px) {
+    font-size: 16px;
+  }
+}
+body {
+  background-color: #ebedf5;
+  font-family: 'Poppins', sans-serif;
+  background-image: url('../images/bg.svg'), url('../images/bg-circle.svg');
+  background-position: right -100px top -60px, left -100px top 230px;
+  background-repeat: no-repeat;
+
+  @media (max-width: 992px) {
+    background-position: right -500px top -60px, left -400px top 230px;
+  }
+  @media (max-width: 1200px) {
+    background-position: right -300px top -60px, left -400px top 230px;
+  }
+}
+.container {
+  margin: 0 auto;
+  max-width: auto;
+  padding: 0 2rem;
+
+  @media (max-width: 992px) {
+    max-width: 960px;
+  }
+  @media (max-width: 768px) {
+    max-width: 720px;
+  }
+  @media (max-width: 576px) {
+    max-width: 540px;
+  }
+  @media (min-width: 1200px) {
+    max-width: 1140px;
+    padding: 0;
+  }
+}
+p,
+h2,
+h6,
+a,
+ul,
+li,
+label,
+input,
+textarea,
+button {
+  color: #525b75;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+footer {
+  padding: 3rem 0;
+  // background-color: #e3e6ef;
+}
+
+@import '_header';
+@import '_jumbotron';
+@import '_section';
