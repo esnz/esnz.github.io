@@ -242,6 +242,8 @@ header {
         .section .skills .skill .bar .progress.nodejs {
           background-color: #5bd952;
           width: 79%; }
+  .section .contact p {
+    margin-top: 1rem; }
   .section .contact #my-form {
     margin-top: 2rem; }
     .section .contact #my-form .form-group {
@@ -288,5 +290,3 @@ header {
         background-color: #4a4980; }
       .section .contact #my-form button:focus {
         outline: none; }
-    .section .contact #my-form #my-form-status {
-      margin-top: 1rem; }

@@ -141,6 +141,9 @@
   }
 
   .contact {
+    p {
+      margin-top: 1rem;
+    }
     #my-form {
       margin-top: 2rem;
 
@@ -201,10 +204,6 @@
         &:focus {
           outline: none;
         }
-      }
-
-      #my-form-status {
-        margin-top: 1rem;
       }
     }
   }
