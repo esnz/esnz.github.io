@@ -1,9 +1,11 @@
 header {
-  position: sticky;
+  position: fixed;
   top: 0;
   background-color: #ffffff;
+  z-index: 999;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
   transition: height 0.25s;
+  width: 100%;
 
   &.shrink {
     height: 70px;
@@ -29,9 +31,6 @@ header {
     ul {
       list-style: none;
       display: flex;
-      @media (max-width: 576px) {
-        display: none;
-      }
       li {
         margin-left: 1.25rem;
       }
@@ -50,6 +49,15 @@ header {
       }
       & > :first-child {
         margin-left: 0;
+      }
+
+      @media (max-width: 576px) {
+        li {
+          margin-left: 0.5rem;
+        }
+        a {
+          font-size: 0.8rem;
+        }
       }
     }
   }
