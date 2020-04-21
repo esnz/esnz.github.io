@@ -10,7 +10,7 @@ html {
   font-size: 18px;
   scroll-behavior: smooth;
   @media (max-width: 576px) {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 body {
@@ -64,7 +64,6 @@ button {
 
 footer {
   padding: 3rem 0;
-  // background-color: #e3e6ef;
 }
 
 @import '_header';

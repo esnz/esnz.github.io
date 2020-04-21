@@ -85,8 +85,8 @@
               The website is built to provide with the latest information and stats regarding Coronavirus pandemic, The frontend of the website is
               created using React library and website consume data from REST API provided by third party.
             </p>
-            <a href="https://corona-virus-stats.netlify.com/">corona-virus-stats.netlify.com/</a>
-            <a href="https://github.com/esanazizi/coronavirus-stats">www.github.com/esanazizi/coronavirus-stats</a>
+            <a href="https://corona-virus-stats.netlify.com">corona-virus-stats.netlify.com/</a>
+            <a href="https://github.com/esanazizi/coronavirus-stats">github.com/esanazizi/coronavirus-stats</a>
           </div>
         </div>
         <div class="portfolio blue">
@@ -97,23 +97,23 @@
             </div>
             <p>
               This project is the online version of my popular accounting software, The backend of the website is built using Microsoft Asp.Net Core,
-              EntityFramework and SQL Server. Angular is utilized for building the frontend part of the website.
+              EntityFramework and SQL Server, And Angular is used for building the frontend part of the website.
             </p>
-            <a href="http://www.unicaccounting.com">www.unicaccounting.com/online</a>
+            <a href="http://www.unicaccounting.com">unicaccounting.com/online</a>
           </div>
         </div>
 
         <div class="portfolio orange">
           <div class="info">
             <div class="name">
-              <h6>Unic Accounting Desktop</h6>
+              <h6>Unic Accounting</h6>
               <p>2017</p>
             </div>
             <p>
               Unic Accounnting is an accounting software that I desgined and developed and it is being used by many companies and stores for managing
               their accounting requirements. The software is a desktop app and is build with .NETFramework / Winforms.
             </p>
-            <a href="http://www.unicaccounting.com">www.unicaccounting.com</a>
+            <a href="http://www.unicaccounting.com">unicaccounting.com</a>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@
           </div>
 
           <h5>Other Skills</h5>
-          <p><span>Language:</span> C#, Typescript, Go</p>
+          <p><span>Language:</span> C#, Typescript</p>
           <p><span>Web Design:</span> HTML, CSS, SASS, Bootstrap</p>
           <p><span>Database:</span> SQL Server, MySQL, MongboDB, Firebase</p>
           <p><span>DevOps:</span> Docker, CI/CD</p>
@@ -190,27 +190,44 @@
     </div>
     <div class="sec section bg" id="contact">
       <div class="container">
-        <div class="title">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18">
-            <defs>
-              <style>
-                .a {
-                  fill: #9da7c5;
-                }
-              </style>
-            </defs>
-            <path
-              class="a"
-              d="M3,3A2.015,2.015,0,0,0,1,5V19a2.015,2.015,0,0,0,2,2H21a2.015,2.015,0,0,0,2-2V7a2.015,2.015,0,0,0-2-2H13.617l-.445-.893,0,0A2,2,0,0,0,11.383,3ZM3,5h8.381l1,2H21V19H19V18H17v1H7V18H5v1H3ZM9,8a2,2,0,1,0,2,2A2,2,0,0,0,9,8Zm6,2v2h4V10ZM9,13c-2.185,0-4,.909-4,2.217V16h8v-.783C13,13.909,11.185,13,9,13Zm6,1v2h4V14Z"
-              transform="translate(-1 -3)"
-            />
-          </svg>
-          Contact
+        <div class="contact">
+          <div class="title">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="18" viewBox="0 0 22 18">
+              <defs>
+                <style>
+                  .a {
+                    fill: #9da7c5;
+                  }
+                </style>
+              </defs>
+              <path
+                class="a"
+                d="M3,3A2.015,2.015,0,0,0,1,5V19a2.015,2.015,0,0,0,2,2H21a2.015,2.015,0,0,0,2-2V7a2.015,2.015,0,0,0-2-2H13.617l-.445-.893,0,0A2,2,0,0,0,11.383,3ZM3,5h8.381l1,2H21V19H19V18H17v1H7V18H5v1H3ZM9,8a2,2,0,1,0,2,2A2,2,0,0,0,9,8Zm6,2v2h4V10ZM9,13c-2.185,0-4,.909-4,2.217V16h8v-.783C13,13.909,11.185,13,9,13Zm6,1v2h4V14Z"
+                transform="translate(-1 -3)"
+              />
+            </svg>
+            Contact
+          </div>
+          <p>
+            Feel free contact me if you have any question or inquery by filling out the form below, I would be happy to hear from you.
+          </p>
+          <form id="my-form" action="https://formspree.io/meqlbbkk" method="POST">
+            <div class="form-group">
+              <label>Email:</label>
+              <input class="form-control" type="email" name="email" required />
+            </div>
+            <div class="form-group">
+              <label>Subject:</label>
+              <input class="form-control" type="text" name="subject" />
+            </div>
+            <div class="form-group">
+              <label>Message:</label>
+              <textarea class="form-control" name="message" cols="2"></textarea>
+            </div>
+            <button id="my-form-button">Submit</button>
+            <p id="my-form-status"></p>
+          </form>
         </div>
-        <p>
-          Feel free contact me if you have any question or inquery, I would be happy to hear from you.
-        </p>
-        <a href="mailto:ehsan@unicaccounting.com"> Email: ehsan@unicaccounting.com</a>
       </div>
     </div>
     <footer>
@@ -219,5 +236,51 @@
       </div>
     </footer>
     <script src="scrollspy.js"></script>
+    <script>
+      window.addEventListener('DOMContentLoaded', function () {
+        // get the form elements defined in your form HTML above
+
+        var form = document.getElementById('my-form');
+        var button = document.getElementById('my-form-button');
+        var status = document.getElementById('my-form-status');
+
+        // Success and Error functions for after the form is submitted
+
+        function success() {
+          form.reset();
+          button.style = 'display: none ';
+          status.innerHTML = 'Thanks!';
+        }
+
+        function error() {
+          status.innerHTML = 'Oops! There was a problem.';
+        }
+
+        // handle the form submission event
+
+        form.addEventListener('submit', function (ev) {
+          ev.preventDefault();
+          var data = new FormData(form);
+          ajax(form.method, form.action, data, success, error);
+        });
+      });
+
+      // helper function for sending an AJAX request
+
+      function ajax(method, url, data, success, error) {
+        var xhr = new XMLHttpRequest();
+        xhr.open(method, url);
+        xhr.setRequestHeader('Accept', 'application/json');
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState !== XMLHttpRequest.DONE) return;
+          if (xhr.status === 200) {
+            success(xhr.response, xhr.responseType);
+          } else {
+            error(xhr.status, xhr.response, xhr.responseType);
+          }
+        };
+        xhr.send(data);
+      }
+    </script>
   </body>
 </html>

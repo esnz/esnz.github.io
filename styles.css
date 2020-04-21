@@ -11,7 +11,7 @@ html {
   scroll-behavior: smooth; }
   @media (max-width: 576px) {
     html {
-      font-size: 16px; } }
+      font-size: 14px; } }
 
 body {
   background-color: #ebedf5;
@@ -64,8 +64,7 @@ footer {
 header {
   position: sticky;
   top: 0;
-  z-index: 999;
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: #ffffff;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
   transition: height 0.25s; }
   header.shrink {
@@ -87,6 +86,9 @@ header {
     header nav ul {
       list-style: none;
       display: flex; }
+      @media (max-width: 576px) {
+        header nav ul {
+          display: none; } }
       header nav ul li {
         margin-left: 1.25rem; }
       header nav ul a {
@@ -240,6 +242,51 @@ header {
         .section .skills .skill .bar .progress.nodejs {
           background-color: #5bd952;
           width: 79%; }
-  .section .contact {
-    margin-top: 2rem;
-    margin-bottom: 2rem; }
+  .section .contact #my-form {
+    margin-top: 2rem; }
+    .section .contact #my-form .form-group {
+      margin-bottom: 1rem; }
+      .section .contact #my-form .form-group label {
+        font-weight: 400;
+        display: block;
+        width: 7rem;
+        color: #282738;
+        margin-bottom: 0.5rem; }
+      .section .contact #my-form .form-group .form-control {
+        width: 100%;
+        max-width: 35rem;
+        border-radius: 5px;
+        background: #fafafa;
+        color: #666;
+        border: 1px solid #b5b9c8;
+        padding: 0 1rem;
+        font-weight: 500;
+        box-shadow: inset 0 1px 3px 0 rgba(0, 0, 0, 0.08);
+        line-height: 3rem; }
+        .section .contact #my-form .form-group .form-control::placeholder {
+          font-weight: 300;
+          color: #aaa; }
+        .section .contact #my-form .form-group .form-control:focus {
+          border: 1px solid #bbb;
+          outline: none;
+          background-color: #f3f3f3; }
+    .section .contact #my-form button {
+      border: none;
+      padding: 0.75rem 2rem;
+      border-radius: 5px;
+      background: #52508d;
+      font-weight: 400;
+      font-size: 1.125rem;
+      color: #eee;
+      text-align: center;
+      vertical-align: middle;
+      user-select: none;
+      cursor: pointer; }
+      .section .contact #my-form button:hover {
+        background-color: #565494; }
+      .section .contact #my-form button:active {
+        background-color: #4a4980; }
+      .section .contact #my-form button:focus {
+        outline: none; }
+    .section .contact #my-form #my-form-status {
+      margin-top: 1rem; }

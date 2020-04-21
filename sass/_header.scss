@@ -1,8 +1,7 @@
 header {
   position: sticky;
   top: 0;
-  z-index: 999;
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: #ffffff;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.1);
   transition: height 0.25s;
 
@@ -26,10 +25,13 @@ header {
     justify-content: space-between;
     align-items: center;
     transition: height 0.25s;
+
     ul {
       list-style: none;
       display: flex;
-
+      @media (max-width: 576px) {
+        display: none;
+      }
       li {
         margin-left: 1.25rem;
       }

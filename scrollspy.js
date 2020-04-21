@@ -20,9 +20,13 @@
       }
     }
     if (scrollPosition >= 200) {
-      document.querySelector('header').classList.add('shrink');
+      setTimeout(() => {
+        document.querySelector('header').classList.add('shrink');
+      }, 300);
     } else {
-      document.querySelector('header').classList.remove('shrink');
+      setTimeout(() => {
+        document.querySelector('header').classList.remove('shrink');
+      }, 300);
     }
   };
 })();
