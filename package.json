@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "watch-scss": "node-sass sass/main.scss styles.css -w -r"
+    "watch-scss": "node-sass sass/main.scss styles.css -w -r --output-style compressed"
   },
   "repository": {
     "type": "git",
