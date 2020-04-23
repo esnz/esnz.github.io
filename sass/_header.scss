@@ -8,9 +8,13 @@ header {
   width: 100%;
 
   &.shrink {
-    height: 70px;
+    height: 4.375rem;
     nav {
-      height: 70px;
+      height: 4.375rem;
+    }
+
+    .bar {
+      bottom: -1.3125rem;
     }
   }
   .title {
@@ -22,7 +26,7 @@ header {
     }
   }
   nav {
-    height: 100px;
+    height: 6.25rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,8 +35,20 @@ header {
     ul {
       list-style: none;
       display: flex;
+      position: relative;
+
+      .bar {
+        position: absolute;
+        background-color: #2487da;
+        border-radius: 2px;
+        height: 4px;
+        width: 0;
+        bottom: -2.25rem;
+        left: 0;
+        transition: left 0.3s ease, width 0.3s ease;
+      }
       li {
-        margin-left: 1.25rem;
+        padding-left: 2rem;
       }
       a {
         display: block;
@@ -44,7 +60,7 @@ header {
           color: lighten(#525b75, 20);
         }
         &.active {
-          border-bottom: 3px solid #2487da;
+          // border-bottom: 2px solid #2487da;
         }
       }
       & > :first-child {
@@ -53,10 +69,10 @@ header {
 
       @media (max-width: 576px) {
         li {
-          margin-left: 0.5rem;
+          padding-left: 0.5rem;
         }
         a {
-          font-size: 0.8rem;
+          font-size: 0.9rem;
         }
       }
     }
