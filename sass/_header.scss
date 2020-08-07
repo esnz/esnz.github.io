@@ -59,9 +59,6 @@ header {
         &:hover {
           color: lighten(#525b75, 20);
         }
-        &.active {
-          // border-bottom: 2px solid #2487da;
-        }
       }
       & > :first-child {
         margin-left: 0;

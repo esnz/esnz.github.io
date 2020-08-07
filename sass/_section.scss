@@ -81,8 +81,9 @@
       a {
         display: block;
         margin-top: 0.5rem;
+        text-decoration: none;
         &:hover {
-          text-decoration: none;
+          text-decoration: underline;
         }
       }
     }
