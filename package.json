@@ -1,5 +1,5 @@
 {
-  "name": "esanazizi.github.io",
+  "name": "esnz.github.io",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esanazizi/esanazizi.github.io.git"
+    "url": "git+https://github.com/esnz/esnz.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/esanazizi/esanazizi.github.io/issues"
+    "url": "https://github.com/esnz/esnz.github.io/issues"
   },
-  "homepage": "https://github.com/esanazizi/esanazizi.github.io#readme"
+  "homepage": "https://github.com/esnz/esnz.github.io#readme"
 }
