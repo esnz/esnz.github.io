@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><style>
+    .sprite-symbol-usage {display: none;}
+    .sprite-symbol-usage:target {display: inline;}
+  </style><symbol viewBox="0 0 1062.504 537.505" id="background-circles">
+  <g id="background-circles_patternpad" transform="translate(0 -24.996)" opacity="0.02">
+    <path id="background-circles_Path_244" data-name="Path 244" d="M1062.5,562.5h0Z" fill="#fff" />
+    <circle id="background-circles_Ellipse_57" data-name="Ellipse 57" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_58" data-name="Ellipse 58" cx="6.249" cy="6.249" r="6.249" transform="translate(87.504 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_59" data-name="Ellipse 59" cx="6.249" cy="6.249" r="6.249" transform="translate(150.003 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_60" data-name="Ellipse 60" cx="6.249" cy="6.249" r="6.249" transform="translate(212.502 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_61" data-name="Ellipse 61" cx="6.249" cy="6.249" r="6.249" transform="translate(275.002 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_62" data-name="Ellipse 62" cx="6.249" cy="6.249" r="6.249" transform="translate(337.501 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_63" data-name="Ellipse 63" cx="6.249" cy="6.249" r="6.249" transform="translate(400 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_64" data-name="Ellipse 64" cx="6.249" cy="6.249" r="6.249" transform="translate(462.499 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_65" data-name="Ellipse 65" cx="6.249" cy="6.249" r="6.249" transform="translate(524.999 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_66" data-name="Ellipse 66" cx="6.249" cy="6.249" r="6.249" transform="translate(587.498 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_67" data-name="Ellipse 67" cx="6.249" cy="6.249" r="6.249" transform="translate(650.005 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_68" data-name="Ellipse 68" cx="6.249" cy="6.249" r="6.249" transform="translate(712.505 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_69" data-name="Ellipse 69" cx="6.249" cy="6.249" r="6.249" transform="translate(775.004 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_70" data-name="Ellipse 70" cx="6.249" cy="6.249" r="6.249" transform="translate(837.503 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_71" data-name="Ellipse 71" cx="6.249" cy="6.249" r="6.249" transform="translate(900.002 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_72" data-name="Ellipse 72" cx="6.249" cy="6.249" r="6.249" transform="translate(962.502 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_73" data-name="Ellipse 73" cx="6.249" cy="6.249" r="6.249" transform="translate(1025.001 24.996)" fill="#fff" />
+    <circle id="background-circles_Ellipse_74" data-name="Ellipse 74" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 87.504)" fill="#fff" />
+    <circle id="background-circles_Ellipse_75" data-name="Ellipse 75" cx="7.189" cy="7.189" r="7.189" transform="translate(86.56 86.56)" fill="#fff" />
+    <circle id="background-circles_Ellipse_76" data-name="Ellipse 76" cx="8.134" cy="8.134" r="8.134" transform="translate(148.114 85.615)" fill="#fff" />
+    <circle id="background-circles_Ellipse_77" data-name="Ellipse 77" cx="9.074" cy="9.074" r="9.074" transform="translate(209.678 84.679)" fill="#fff" />
+    <circle id="background-circles_Ellipse_78" data-name="Ellipse 78" cx="10.014" cy="10.014" r="10.014" transform="translate(271.232 83.735)" fill="#fff" />
+    <circle id="background-circles_Ellipse_79" data-name="Ellipse 79" cx="10.954" cy="10.954" r="10.954" transform="translate(332.796 82.79)" fill="#fff" />
+    <circle id="background-circles_Ellipse_80" data-name="Ellipse 80" cx="11.899" cy="11.899" r="11.899" transform="translate(394.35 81.854)" fill="#fff" />
+    <circle id="background-circles_Ellipse_81" data-name="Ellipse 81" cx="12.839" cy="12.839" r="12.839" transform="translate(455.914 80.91)" fill="#fff" />
+    <circle id="background-circles_Ellipse_82" data-name="Ellipse 82" cx="12.917" cy="12.917" r="12.917" transform="translate(518.331 80.836)" fill="#fff" />
+    <circle id="background-circles_Ellipse_83" data-name="Ellipse 83" cx="12.917" cy="12.917" r="12.917" transform="translate(580.838 80.836)" fill="#fff" />
+    <circle id="background-circles_Ellipse_84" data-name="Ellipse 84" cx="12.839" cy="12.839" r="12.839" transform="translate(643.411 80.91)" fill="#fff" />
+    <circle id="background-circles_Ellipse_85" data-name="Ellipse 85" cx="11.899" cy="11.899" r="11.899" transform="translate(706.855 81.854)" fill="#fff" />
+    <circle id="background-circles_Ellipse_86" data-name="Ellipse 86" cx="10.954" cy="10.954" r="10.954" transform="translate(770.299 82.79)" fill="#fff" />
+    <circle id="background-circles_Ellipse_87" data-name="Ellipse 87" cx="10.014" cy="10.014" r="10.014" transform="translate(833.73 83.735)" fill="#fff" />
+    <circle id="background-circles_Ellipse_88" data-name="Ellipse 88" cx="9.074" cy="9.074" r="9.074" transform="translate(897.178 84.679)" fill="#fff" />
+    <circle id="background-circles_Ellipse_89" data-name="Ellipse 89" cx="8.134" cy="8.134" r="8.134" transform="translate(960.617 85.615)" fill="#fff" />
+    <circle id="background-circles_Ellipse_90" data-name="Ellipse 90" cx="7.189" cy="7.189" r="7.189" transform="translate(1024.061 86.56)" fill="#fff" />
+    <circle id="background-circles_Ellipse_91" data-name="Ellipse 91" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 150.003)" fill="#fff" />
+    <circle id="background-circles_Ellipse_92" data-name="Ellipse 92" cx="8.134" cy="8.134" r="8.134" transform="translate(85.615 148.114)" fill="#fff" />
+    <circle id="background-circles_Ellipse_93" data-name="Ellipse 93" cx="10.014" cy="10.014" r="10.014" transform="translate(146.234 146.234)" fill="#fff" />
+    <circle id="background-circles_Ellipse_94" data-name="Ellipse 94" cx="11.899" cy="11.899" r="11.899" transform="translate(206.853 144.353)" fill="#fff" />
+    <circle id="background-circles_Ellipse_95" data-name="Ellipse 95" cx="13.779" cy="13.779" r="13.779" transform="translate(267.471 142.473)" fill="#fff" />
+    <circle id="background-circles_Ellipse_96" data-name="Ellipse 96" cx="15.664" cy="15.664" r="15.664" transform="translate(328.09 140.593)" fill="#fff" />
+    <circle id="background-circles_Ellipse_97" data-name="Ellipse 97" cx="17.544" cy="17.544" r="17.544" transform="translate(388.709 138.704)" fill="#fff" />
+    <circle id="background-circles_Ellipse_98" data-name="Ellipse 98" cx="19.425" cy="19.425" r="19.425" transform="translate(449.328 136.823)" fill="#fff" />
+    <circle id="background-circles_Ellipse_99" data-name="Ellipse 99" cx="19.585" cy="19.585" r="19.585" transform="translate(511.671 136.667)" fill="#fff" />
+    <circle id="background-circles_Ellipse_100" data-name="Ellipse 100" cx="19.585" cy="19.585" r="19.585" transform="translate(574.17 136.667)" fill="#fff" />
+    <circle id="background-circles_Ellipse_101" data-name="Ellipse 101" cx="19.425" cy="19.425" r="19.425" transform="translate(636.826 136.823)" fill="#fff" />
+    <circle id="background-circles_Ellipse_102" data-name="Ellipse 102" cx="17.544" cy="17.544" r="17.544" transform="translate(701.205 138.704)" fill="#fff" />
+    <circle id="background-circles_Ellipse_103" data-name="Ellipse 103" cx="15.664" cy="15.664" r="15.664" transform="translate(765.593 140.593)" fill="#fff" />
+    <circle id="background-circles_Ellipse_104" data-name="Ellipse 104" cx="13.779" cy="13.779" r="13.779" transform="translate(829.973 142.473)" fill="#fff" />
+    <circle id="background-circles_Ellipse_105" data-name="Ellipse 105" cx="11.899" cy="11.899" r="11.899" transform="translate(894.353 144.353)" fill="#fff" />
+    <circle id="background-circles_Ellipse_106" data-name="Ellipse 106" cx="10.014" cy="10.014" r="10.014" transform="translate(958.737 146.234)" fill="#fff" />
+    <circle id="background-circles_Ellipse_107" data-name="Ellipse 107" cx="8.134" cy="8.134" r="8.134" transform="translate(1023.116 148.114)" fill="#fff" />
+    <circle id="background-circles_Ellipse_108" data-name="Ellipse 108" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 212.502)" fill="#fff" />
+    <circle id="background-circles_Ellipse_109" data-name="Ellipse 109" cx="9.074" cy="9.074" r="9.074" transform="translate(84.679 209.678)" fill="#fff" />
+    <circle id="background-circles_Ellipse_110" data-name="Ellipse 110" cx="11.899" cy="11.899" r="11.899" transform="translate(144.353 206.853)" fill="#fff" />
+    <circle id="background-circles_Ellipse_111" data-name="Ellipse 111" cx="14.719" cy="14.719" r="14.719" transform="translate(204.028 204.028)" fill="#fff" />
+    <circle id="background-circles_Ellipse_112" data-name="Ellipse 112" cx="17.544" cy="17.544" r="17.544" transform="translate(263.711 201.203)" fill="#fff" />
+    <circle id="background-circles_Ellipse_113" data-name="Ellipse 113" cx="20.369" cy="20.369" r="20.369" transform="translate(323.385 198.386)" fill="#fff" />
+    <circle id="background-circles_Ellipse_114" data-name="Ellipse 114" cx="23.19" cy="23.19" r="23.19" transform="translate(383.059 195.562)" fill="#fff" />
+    <circle id="background-circles_Ellipse_115" data-name="Ellipse 115" cx="26.015" cy="26.015" r="26.015" transform="translate(442.734 192.737)" fill="#fff" />
+    <circle id="background-circles_Ellipse_116" data-name="Ellipse 116" cx="26.249" cy="26.249" r="26.249" transform="translate(505.003 192.499)" fill="#fff" />
+    <circle id="background-circles_Ellipse_117" data-name="Ellipse 117" cx="26.249" cy="26.249" r="26.249" transform="translate(567.502 192.499)" fill="#fff" />
+    <circle id="background-circles_Ellipse_118" data-name="Ellipse 118" cx="26.015" cy="26.015" r="26.015" transform="translate(630.24 192.737)" fill="#fff" />
+    <circle id="background-circles_Ellipse_119" data-name="Ellipse 119" cx="23.19" cy="23.19" r="23.19" transform="translate(695.564 195.562)" fill="#fff" />
+    <circle id="background-circles_Ellipse_120" data-name="Ellipse 120" cx="20.369" cy="20.369" r="20.369" transform="translate(760.888 198.386)" fill="#fff" />
+    <circle id="background-circles_Ellipse_121" data-name="Ellipse 121" cx="17.544" cy="17.544" r="17.544" transform="translate(826.216 201.203)" fill="#fff" />
+    <circle id="background-circles_Ellipse_122" data-name="Ellipse 122" cx="14.719" cy="14.719" r="14.719" transform="translate(891.524 204.028)" fill="#fff" />
+    <circle id="background-circles_Ellipse_123" data-name="Ellipse 123" cx="11.899" cy="11.899" r="11.899" transform="translate(956.852 206.853)" fill="#fff" />
+    <circle id="background-circles_Ellipse_124" data-name="Ellipse 124" cx="9.074" cy="9.074" r="9.074" transform="translate(1022.176 209.678)" fill="#fff" />
+    <circle id="background-circles_Ellipse_125" data-name="Ellipse 125" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 275.002)" fill="#fff" />
+    <circle id="background-circles_Ellipse_126" data-name="Ellipse 126" cx="9.78" cy="9.78" r="9.78" transform="translate(83.973 271.471)" fill="#fff" />
+    <circle id="background-circles_Ellipse_127" data-name="Ellipse 127" cx="13.307" cy="13.307" r="13.307" transform="translate(142.941 267.94)" fill="#fff" />
+    <circle id="background-circles_Ellipse_128" data-name="Ellipse 128" cx="16.838" cy="16.838" r="16.838" transform="translate(201.909 264.409)" fill="#fff" />
+    <circle id="background-circles_Ellipse_129" data-name="Ellipse 129" cx="20.369" cy="20.369" r="20.369" transform="translate(260.886 260.886)" fill="#fff" />
+    <circle id="background-circles_Ellipse_130" data-name="Ellipse 130" cx="23.896" cy="23.896" r="23.896" transform="translate(319.854 257.355)" fill="#fff" />
+    <circle id="background-circles_Ellipse_131" data-name="Ellipse 131" cx="27.427" cy="27.427" r="27.427" transform="translate(378.822 253.824)" fill="#fff" />
+    <circle id="background-circles_Ellipse_132" data-name="Ellipse 132" cx="30.954" cy="30.954" r="30.954" transform="translate(437.799 250.293)" fill="#fff" />
+    <circle id="background-circles_Ellipse_133" data-name="Ellipse 133" cx="31.25" cy="31.25" r="31.25" transform="translate(500.002 249.997)" fill="#fff" />
+    <circle id="background-circles_Ellipse_134" data-name="Ellipse 134" cx="31.25" cy="31.25" r="31.25" transform="translate(562.501 249.997)" fill="#fff" />
+    <circle id="background-circles_Ellipse_135" data-name="Ellipse 135" cx="30.954" cy="30.954" r="30.954" transform="translate(625.296 250.293)" fill="#fff" />
+    <circle id="background-circles_Ellipse_136" data-name="Ellipse 136" cx="27.427" cy="27.427" r="27.427" transform="translate(691.327 253.824)" fill="#fff" />
+    <circle id="background-circles_Ellipse_137" data-name="Ellipse 137" cx="23.896" cy="23.896" r="23.896" transform="translate(757.357 257.355)" fill="#fff" />
+    <circle id="background-circles_Ellipse_138" data-name="Ellipse 138" cx="20.369" cy="20.369" r="20.369" transform="translate(823.391 260.886)" fill="#fff" />
+    <circle id="background-circles_Ellipse_139" data-name="Ellipse 139" cx="16.838" cy="16.838" r="16.838" transform="translate(889.413 264.409)" fill="#fff" />
+    <circle id="background-circles_Ellipse_140" data-name="Ellipse 140" cx="13.307" cy="13.307" r="13.307" transform="translate(955.444 267.94)" fill="#fff" />
+    <circle id="background-circles_Ellipse_141" data-name="Ellipse 141" cx="9.78" cy="9.78" r="9.78" transform="translate(1021.47 271.471)" fill="#fff" />
+    <circle id="background-circles_Ellipse_142" data-name="Ellipse 142" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 337.501)" fill="#fff" />
+    <circle id="background-circles_Ellipse_143" data-name="Ellipse 143" cx="9.78" cy="9.78" r="9.78" transform="translate(83.973 333.97)" fill="#fff" />
+    <circle id="background-circles_Ellipse_144" data-name="Ellipse 144" cx="13.307" cy="13.307" r="13.307" transform="translate(142.941 330.439)" fill="#fff" />
+    <circle id="background-circles_Ellipse_145" data-name="Ellipse 145" cx="16.838" cy="16.838" r="16.838" transform="translate(201.909 326.916)" fill="#fff" />
+    <circle id="background-circles_Ellipse_146" data-name="Ellipse 146" cx="20.369" cy="20.369" r="20.369" transform="translate(260.886 323.385)" fill="#fff" />
+    <circle id="background-circles_Ellipse_147" data-name="Ellipse 147" cx="23.896" cy="23.896" r="23.896" transform="translate(319.854 319.854)" fill="#fff" />
+    <circle id="background-circles_Ellipse_148" data-name="Ellipse 148" cx="27.427" cy="27.427" r="27.427" transform="translate(378.822 316.323)" fill="#fff" />
+    <circle id="background-circles_Ellipse_149" data-name="Ellipse 149" cx="30.954" cy="30.954" r="30.954" transform="translate(437.799 312.792)" fill="#fff" />
+    <circle id="background-circles_Ellipse_150" data-name="Ellipse 150" cx="31.25" cy="31.25" r="31.25" transform="translate(500.002 312.504)" fill="#fff" />
+    <circle id="background-circles_Ellipse_151" data-name="Ellipse 151" cx="31.25" cy="31.25" r="31.25" transform="translate(562.501 312.504)" fill="#fff" />
+    <circle id="background-circles_Ellipse_152" data-name="Ellipse 152" cx="30.954" cy="30.954" r="30.954" transform="translate(625.296 312.792)" fill="#fff" />
+    <circle id="background-circles_Ellipse_153" data-name="Ellipse 153" cx="27.427" cy="27.427" r="27.427" transform="translate(691.327 316.323)" fill="#fff" />
+    <circle id="background-circles_Ellipse_154" data-name="Ellipse 154" cx="23.896" cy="23.896" r="23.896" transform="translate(757.357 319.854)" fill="#fff" />
+    <circle id="background-circles_Ellipse_155" data-name="Ellipse 155" cx="20.369" cy="20.369" r="20.369" transform="translate(823.391 323.385)" fill="#fff" />
+    <circle id="background-circles_Ellipse_156" data-name="Ellipse 156" cx="16.838" cy="16.838" r="16.838" transform="translate(889.413 326.916)" fill="#fff" />
+    <circle id="background-circles_Ellipse_157" data-name="Ellipse 157" cx="13.307" cy="13.307" r="13.307" transform="translate(955.444 330.439)" fill="#fff" />
+    <circle id="background-circles_Ellipse_158" data-name="Ellipse 158" cx="9.78" cy="9.78" r="9.78" transform="translate(1021.47 333.97)" fill="#fff" />
+    <circle id="background-circles_Ellipse_159" data-name="Ellipse 159" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 400)" fill="#fff" />
+    <circle id="background-circles_Ellipse_160" data-name="Ellipse 160" cx="9.074" cy="9.074" r="9.074" transform="translate(84.679 397.175)" fill="#fff" />
+    <circle id="background-circles_Ellipse_161" data-name="Ellipse 161" cx="11.899" cy="11.899" r="11.899" transform="translate(144.353 394.35)" fill="#fff" />
+    <circle id="background-circles_Ellipse_162" data-name="Ellipse 162" cx="14.719" cy="14.719" r="14.719" transform="translate(204.028 391.534)" fill="#fff" />
+    <circle id="background-circles_Ellipse_163" data-name="Ellipse 163" cx="17.544" cy="17.544" r="17.544" transform="translate(263.711 388.709)" fill="#fff" />
+    <circle id="background-circles_Ellipse_164" data-name="Ellipse 164" cx="20.369" cy="20.369" r="20.369" transform="translate(323.385 385.884)" fill="#fff" />
+    <circle id="background-circles_Ellipse_165" data-name="Ellipse 165" cx="23.19" cy="23.19" r="23.19" transform="translate(383.059 383.059)" fill="#fff" />
+    <circle id="background-circles_Ellipse_166" data-name="Ellipse 166" cx="26.015" cy="26.015" r="26.015" transform="translate(442.734 380.235)" fill="#fff" />
+    <circle id="background-circles_Ellipse_167" data-name="Ellipse 167" cx="26.249" cy="26.249" r="26.249" transform="translate(505.003 380.005)" fill="#fff" />
+    <circle id="background-circles_Ellipse_168" data-name="Ellipse 168" cx="26.249" cy="26.249" r="26.249" transform="translate(567.502 380.005)" fill="#fff" />
+    <circle id="background-circles_Ellipse_169" data-name="Ellipse 169" cx="26.015" cy="26.015" r="26.015" transform="translate(630.24 380.235)" fill="#fff" />
+    <circle id="background-circles_Ellipse_170" data-name="Ellipse 170" cx="23.19" cy="23.19" r="23.19" transform="translate(695.564 383.059)" fill="#fff" />
+    <circle id="background-circles_Ellipse_171" data-name="Ellipse 171" cx="20.369" cy="20.369" r="20.369" transform="translate(760.888 385.884)" fill="#fff" />
+    <circle id="background-circles_Ellipse_172" data-name="Ellipse 172" cx="17.544" cy="17.544" r="17.544" transform="translate(826.216 388.709)" fill="#fff" />
+    <circle id="background-circles_Ellipse_173" data-name="Ellipse 173" cx="14.719" cy="14.719" r="14.719" transform="translate(891.524 391.534)" fill="#fff" />
+    <circle id="background-circles_Ellipse_174" data-name="Ellipse 174" cx="11.899" cy="11.899" r="11.899" transform="translate(956.852 394.35)" fill="#fff" />
+    <circle id="background-circles_Ellipse_175" data-name="Ellipse 175" cx="9.074" cy="9.074" r="9.074" transform="translate(1022.176 397.175)" fill="#fff" />
+    <circle id="background-circles_Ellipse_176" data-name="Ellipse 176" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 462.499)" fill="#fff" />
+    <circle id="background-circles_Ellipse_177" data-name="Ellipse 177" cx="8.134" cy="8.134" r="8.134" transform="translate(85.615 460.619)" fill="#fff" />
+    <circle id="background-circles_Ellipse_178" data-name="Ellipse 178" cx="10.014" cy="10.014" r="10.014" transform="translate(146.234 458.738)" fill="#fff" />
+    <circle id="background-circles_Ellipse_179" data-name="Ellipse 179" cx="11.899" cy="11.899" r="11.899" transform="translate(206.853 456.858)" fill="#fff" />
+    <circle id="background-circles_Ellipse_180" data-name="Ellipse 180" cx="13.779" cy="13.779" r="13.779" transform="translate(267.471 454.969)" fill="#fff" />
+    <circle id="background-circles_Ellipse_181" data-name="Ellipse 181" cx="15.664" cy="15.664" r="15.664" transform="translate(328.09 453.089)" fill="#fff" />
+    <circle id="background-circles_Ellipse_182" data-name="Ellipse 182" cx="17.544" cy="17.544" r="17.544" transform="translate(388.709 451.208)" fill="#fff" />
+    <circle id="background-circles_Ellipse_183" data-name="Ellipse 183" cx="19.425" cy="19.425" r="19.425" transform="translate(449.328 449.328)" fill="#fff" />
+    <circle id="background-circles_Ellipse_184" data-name="Ellipse 184" cx="19.585" cy="19.585" r="19.585" transform="translate(511.671 449.172)" fill="#fff" />
+    <circle id="background-circles_Ellipse_185" data-name="Ellipse 185" cx="19.585" cy="19.585" r="19.585" transform="translate(574.17 449.172)" fill="#fff" />
+    <circle id="background-circles_Ellipse_186" data-name="Ellipse 186" cx="19.425" cy="19.425" r="19.425" transform="translate(636.826 449.328)" fill="#fff" />
+    <circle id="background-circles_Ellipse_187" data-name="Ellipse 187" cx="17.544" cy="17.544" r="17.544" transform="translate(701.205 451.208)" fill="#fff" />
+    <circle id="background-circles_Ellipse_188" data-name="Ellipse 188" cx="15.664" cy="15.664" r="15.664" transform="translate(765.593 453.089)" fill="#fff" />
+    <circle id="background-circles_Ellipse_189" data-name="Ellipse 189" cx="13.779" cy="13.779" r="13.779" transform="translate(829.973 454.969)" fill="#fff" />
+    <circle id="background-circles_Ellipse_190" data-name="Ellipse 190" cx="11.899" cy="11.899" r="11.899" transform="translate(894.353 456.858)" fill="#fff" />
+    <circle id="background-circles_Ellipse_191" data-name="Ellipse 191" cx="10.014" cy="10.014" r="10.014" transform="translate(958.737 458.738)" fill="#fff" />
+    <circle id="background-circles_Ellipse_192" data-name="Ellipse 192" cx="8.134" cy="8.134" r="8.134" transform="translate(1023.116 460.619)" fill="#fff" />
+    <circle id="background-circles_Ellipse_193" data-name="Ellipse 193" cx="6.249" cy="6.249" r="6.249" transform="translate(24.996 524.999)" fill="#fff" />
+    <circle id="background-circles_Ellipse_194" data-name="Ellipse 194" cx="7.189" cy="7.189" r="7.189" transform="translate(86.56 524.063)" fill="#fff" />
+    <circle id="background-circles_Ellipse_195" data-name="Ellipse 195" cx="8.134" cy="8.134" r="8.134" transform="translate(148.114 523.118)" fill="#fff" />
+    <circle id="background-circles_Ellipse_196" data-name="Ellipse 196" cx="9.074" cy="9.074" r="9.074" transform="translate(209.678 522.174)" fill="#fff" />
+    <circle id="background-circles_Ellipse_197" data-name="Ellipse 197" cx="10.014" cy="10.014" r="10.014" transform="translate(271.232 521.238)" fill="#fff" />
+    <circle id="background-circles_Ellipse_198" data-name="Ellipse 198" cx="10.954" cy="10.954" r="10.954" transform="translate(332.796 520.293)" fill="#fff" />
+    <circle id="background-circles_Ellipse_199" data-name="Ellipse 199" cx="11.899" cy="11.899" r="11.899" transform="translate(394.35 519.357)" fill="#fff" />
+    <circle id="background-circles_Ellipse_200" data-name="Ellipse 200" cx="12.839" cy="12.839" r="12.839" transform="translate(455.914 518.413)" fill="#fff" />
+    <circle id="background-circles_Ellipse_201" data-name="Ellipse 201" cx="12.917" cy="12.917" r="12.917" transform="translate(518.331 518.331)" fill="#fff" />
+    <circle id="background-circles_Ellipse_202" data-name="Ellipse 202" cx="12.917" cy="12.917" r="12.917" transform="translate(580.838 518.331)" fill="#fff" />
+    <circle id="background-circles_Ellipse_203" data-name="Ellipse 203" cx="12.839" cy="12.839" r="12.839" transform="translate(643.411 518.413)" fill="#fff" />
+    <circle id="background-circles_Ellipse_204" data-name="Ellipse 204" cx="11.899" cy="11.899" r="11.899" transform="translate(706.855 519.357)" fill="#fff" />
+    <circle id="background-circles_Ellipse_205" data-name="Ellipse 205" cx="10.954" cy="10.954" r="10.954" transform="translate(770.299 520.293)" fill="#fff" />
+    <circle id="background-circles_Ellipse_206" data-name="Ellipse 206" cx="10.014" cy="10.014" r="10.014" transform="translate(833.73 521.238)" fill="#fff" />
+    <circle id="background-circles_Ellipse_207" data-name="Ellipse 207" cx="9.074" cy="9.074" r="9.074" transform="translate(897.178 522.174)" fill="#fff" />
+    <circle id="background-circles_Ellipse_208" data-name="Ellipse 208" cx="8.134" cy="8.134" r="8.134" transform="translate(960.617 523.118)" fill="#fff" />
+    <circle id="background-circles_Ellipse_209" data-name="Ellipse 209" cx="7.189" cy="7.189" r="7.189" transform="translate(1024.061 524.063)" fill="#fff" />
+  </g>
+</symbol><symbol viewBox="0 0 6583.44 978.524" id="background-wave">
+  <defs>
+    
+    
+  </defs>
+  <g id="background-wave_Group_38" data-name="Group 38" transform="translate(-46.56 -3082.695)">
+    <path id="background-wave_Path_246" data-name="Path 246" d="M-2955.44,50,3328,37.7V835s-341.906-149.495-828.115,0S2007.546,852,1600,835s-246.7-247.4-730.3-68S154.385,902.932,0,835s-371.889-171.191-841.793,0-1017.47,151.769-1463.646,0-650,0-650,0Z" transform="translate(3072 3105)" fill="url(#background-wave_linear-gradient)" />
+    <path id="background-wave_Path_247" data-name="Path 247" d="M3328,50-2955.44,37.7V835s341.906-149.495,828.115,0,492.339,17,899.885,0,246.7-247.4,730.3-68,715.315,135.932,869.7,68,371.889-171.191,841.793,0S2231.822,986.768,2678,835s650,0,650,0Z" transform="translate(3002 3045)" fill="#132d50" opacity="0.04" />
+    <path id="background-wave_Path_248" data-name="Path 248" d="M-2955.44,50,3328,37.7V835s-341.906-149.495-828.115,0S2007.546,852,1600,835s-246.7-247.4-730.3-68S154.385,902.932,0,835s-371.889-171.191-841.793,0-1017.47,151.769-1463.646,0-650,0-650,0Z" transform="translate(3302 3105)" opacity="0.3" fill="url(#background-wave_linear-gradient-2)" />
+  </g>
+</symbol><linearGradient id="background-wave_linear-gradient" x1="0.632" y1="1.574" x2="0.954" y2="0.569" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#132d50" />
+      <stop offset="1" stop-color="#14386a" />
+    </linearGradient><linearGradient id="background-wave_linear-gradient-2" x1="-0.047" y1="0.289" x2="0.954" y2="0.569" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#132d50" stop-opacity="0.38" />
+      <stop offset="1" stop-color="#14386a" stop-opacity="0" />
+    </linearGradient></defs><use id="background-circles-usage" xlink:href="#background-circles" class="sprite-symbol-usage" /><use id="background-wave-usage" xlink:href="#background-wave" class="sprite-symbol-usage" /></svg>
